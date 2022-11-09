@@ -1,0 +1,135 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: #2e2d2d;
+}
+
+#container{
+    display: flex;
+    margin-top: 20px;
+    width: 900px;
+    height: 500px;
+    background: #1C1C1C;
+}
+
+#contentContainer{
+    margin-left: 45px;
+    margin-top: 30px;
+    width: 810px;
+    height: 430px;
+
+    background: #1F2937;
+}
+
+#title{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 40px;
+    /* or 100% */
+
+    letter-spacing: -0.025em;
+
+    /* white */
+
+    color: #FFFFFF;
+
+}
+
+#green{
+    color: #4ADF86;
+}
+
+#supportingText{
+    margin-top: -20px;
+    margin-left: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    
+    /* Medium grey */
+    
+    color: #D5D4D8;
+
+}
+
+#genButton{
+    margin-top: 60px;
+    margin-left: 50px;
+    width: 191px;
+    height: 42px;
+
+    background: #10B981;
+    border: 0px;
+    border-radius: 6px;
+}
+
+#buttonPara{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+#line{
+    margin-top: 35px;
+    margin-left: 50px;
+    width: 446px;
+    height: 0px;
+    border: 0.1px solid #2F3E53;
+}
+
+#rectangle1{
+    margin-top: 35px;
+    margin-left: 50px;
+    width: 211px;
+    height: 39px;
+    text-align: center;
+
+    background: #273549;
+    border-radius: 6px;
+}
+
+#rectangle2{
+    margin-top: -55px;
+    margin-left: 290px;
+    width: 211px;
+    height: 39px;
+    text-align: center;
+
+    background: #273549;
+    border-radius: 6px;
+}
+
+#text1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    /* identical to box height, or 200% */
+
+    color: #55F991;
+
+}
+
+#text2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    /* identical to box height, or 200% */
+
+    color: #55F991;
+
+}
